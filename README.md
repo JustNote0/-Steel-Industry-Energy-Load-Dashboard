@@ -46,7 +46,7 @@ Using **Tableau Public**, the dashboard uncovers critical patterns in load behav
 
 ## 📍 Live Dashboard
 
-Click to explore the interactive dashboard:
+Click to explore the dashboard:
 
 🔗 [**Steel Industry Energy Load Dashboard** – Tableau Public](https://public.tableau.com/views/LoadTypeFromSteelIndustryEnergyConsumption/LoadTypeFrom?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
